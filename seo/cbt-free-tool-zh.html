@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>免费CBT工具 - 认知行为疗法在线工具箱</title>
+    <meta name="description" content="22个免费CBT和心理健康工具，纯JavaScript实现，无需注册，无需后端，隐私优先。">
+    <meta name="keywords" content="CBT工具, 认知行为疗法, 心理健康, 免费工具, 在线CBT, 思维记录, 认知扭曲, 情绪管理, 免费心理工具, 自助疗法, 焦虑症, 抑郁症, 压力管理">
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background-color: #f0fdf4; /* Light green nature theme */
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+        h1, h2, h3 {
+            color: #2e7d32; /* Darker green for headings */
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-top: 0;
+        }
+        h2 {
+            font-size: 1.8em;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            color: #388e3c;
+        }
+        p {
+            margin-bottom: 1em;
+            text-align: justify;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            padding-left: 0;
+            margin-bottom: 1em;
+        }
+        ol {
+            list-style-type: decimal;
+            margin-left: 20px;
+            padding-left: 0;
+            margin-bottom: 1em;
+        }
+        li {
+            margin-bottom: 0.5em;
+        }
+        .cta-button {
+            display: block;
+            width: fit-content;
+            margin: 30px auto;
+            padding: 15px 30px;
+            background-color: #4CAF50; /* Green button */
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #45a049;
+        }
+        strong {
+            color: #2e7d32;
+        }
+        .example-box {
+            background-color: #f9f9f9;
+            border-left: 4px solid #4CAF50;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .example-box p {
+            margin: 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            color: #777;
+            font-size: 0.9em;
+        }
+        @media (max-width: 600px) {
+            body {
+                padding: 15px;
+            }
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            h2 {
+                font-size: 1.5em;
+            }
+            h3 {
+                font-size: 1.2em;
+            }
+            .cta-button {
+                font-size: 1em;
+                padding: 12px 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>免费CBT工具箱</h1>
+            <p style="text-align: center; font-size: 1.1em; color: #555;">22个免费心理健康工具，助您更好地理解和管理情绪与思维。</p>
+        </header>
+
+        <main>
+            <p>欢迎来到我们的免费CBT工具箱！在这里，我们提供一系列基于认知行为疗法（CBT）原则设计的在线工具，旨在帮助您识别、理解并改变有害的思维模式，从而改善您的情绪和行为。我们的工具纯JavaScript实现，无需注册，无需后端，隐私优先，让您可以安心使用。</p>
+
+            <a href="https://473185670.github.io/cbt-toolkit/" class="cta-button">立即体验免费CBT工具</a>
+
+            <h2>什么是认知行为疗法 (CBT)？</h2>
+            <p>认知行为疗法（Cognitive Behavioral Therapy, 简称CBT）是一种被广泛认可且经过科学验证的心理治疗方法。它的核心理念是：我们的<strong>思维</strong>、<strong>情绪</strong>和<strong>行为</strong>是相互关联的。CBT帮助人们识别并挑战那些导致负面情绪和行为的非理性或扭曲的思维模式。</p>
+            <p>通过CBT，您可以学习如何：</p>
+            <ul>
+                <li>识别自动产生的负面思维。</li>
+                <li>评估这些思维的真实性和有效性。</li>
+                <li>发展出更平衡、更现实的思维方式。</li>
+                <li>改变与思维和情绪相关的行为模式。</li>
+            </ul>
+            <p>CBT被广泛应用于处理焦虑症、抑郁症、压力管理、恐惧症、创伤后应激障碍（PTSD）等多种心理健康问题，并被证明是一种高效、实用的自助工具。</p>
+
+            <h2>7步思维记录法详解</h2>
+            <p>思维记录是CBT中最基础也最有效的工具之一，它帮助您系统地分析导致负面情绪的思维和事件。以下是其7个步骤：</p>
+            <ol>
+                <li>
+                    <strong>情境 (Situation):</strong> 记录事件发生的时间、地点以及具体情况。
+                    <div class="example-box"><p><strong>示例：</strong> 昨天晚上，我在一个重要的项目演示中犯了一个小错误。</p></div>
+                </li>
+                <li>
+                    <strong>自动思维 (Automatic Thought):</strong> 记录在情境中瞬间出现在脑海中的想法，通常是负面的。
+                    <div class="example-box"><p><strong>示例：</strong> “我真是个失败者，我永远都做不好任何事。”</p></div>
+                </li>
+                <li>
+                    <strong>情绪 (Emotion):</strong> 描述当时感受到的情绪（如焦虑、沮丧、愤怒），并评估其强度（0-100%）。
+                    <div class="example-box"><p><strong>示例：</strong> 沮丧 (80%), 焦虑 (70%)。</p></div>
+                </li>
+                <li>
+                    <strong>支持证据 (Evidence Supporting the Thought):</strong> 列出支持自动思维的证据。
+                    <div class="example-box"><p><strong>示例：</strong> 我确实犯了个错误，而且在演示中有点结巴。</p></div>
+                </li>
+                <li>
+                    <strong>反对证据 (Evidence Against the Thought):</strong> 列出与自动思维相矛盾或削弱它的证据。
+                    <div class="example-box"><p><strong>示例：</strong> 这只是一个很小的错误，我之前也成功完成了许多项目。同事和老板并没有因此批评我，反而鼓励我。我只是紧张了。</p></div>
+                </li>
+                <li>
+                    <strong>平衡思维 (Balanced Thought):</strong> 基于支持和反对证据，形成一个更现实、更平衡的思维。
+                    <div class="example-box"><p><strong>示例：</strong> “我在演示中犯了一个小错误，这让我感到有些失望。但这不是世界末日，也不是我是一个失败者的证据。我过去也取得过成功，这次的经验可以帮助我下次做得更好。”</p></div>
+                </li>
+                <li>
+                    <strong>重新评估 (Re-evaluation):</strong> 再次评估情绪的强度，通常会发现负面情绪减轻了。
+                    <div class="example-box"><p><strong>示例：</strong> 情绪从沮丧80%、焦虑70%降至沮丧30%、焦虑20%。我意识到一次小失误并不能定义我的全部价值。</p></div>
+                </li>
+            </ol>
+
+            <h2>常见的认知扭曲</h2>
+            <p>认知扭曲是非理性的思维模式，它们常常扭曲我们对现实的看法，导致负面情绪。识别这些扭曲是CBT的关键一步。</p>
+            <ul>
+                <li><strong>灾难化 (Catastrophizing):</strong> 将小问题想象成无法承受的灾难。
+                    <p><em>示例：</em> “如果我这次考试没过，我的职业生涯就彻底完了。”</p
