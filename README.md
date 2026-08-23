@@ -1,5 +1,12 @@
 # CBT Toolkit 鈥?23 Free Interactive Mental Health Tools
 
+
+<!-- Star CTA -->
+<h3 align="center">⭐ If this helped you, please <a href="https://github.com/473185670/cbt-toolkit">star the repo</a> — it helps others find it. ⭐</h3>
+
+---
+
+
 ![Stars](https://img.shields.io/github/stars/473185670/cbt-toolkit?style=social&label=Star) ![Forks](https://img.shields.io/github/forks/473185670/cbt-toolkit?style=social&label=Fork)
 
 > Built with **vanilla JavaScript**. No framework. No backend. No signup. No dependencies. Just open and use.
