@@ -17,6 +17,9 @@ A collection of 23 free interactive CBT (Cognitive Behavioral Therapy) tools and
 
 **Live demo**: [https://473185670.github.io/cbt-toolkit/](https://473185670.github.io/cbt-toolkit/)
 
+![Cognitive Distortion Checker in action](demo/distortion-checker-demo.svg)
+
+
 **Toolkit hub**: [https://473185670.github.io/cbt-toolkit/seo/cbt-toolkit-hub.html](https://473185670.github.io/cbt-toolkit/seo/cbt-toolkit-hub.html)
 
 
@@ -155,7 +158,7 @@ I write about CBT techniques for developer-specific pain points on Dev.to:
 
 ## Upsell: CBT Thought Record Notion Template
 
-For a structured, always-accessible thought record, check out the [CBT Thought Record Notion Template](https://4043969836017.gumroad.com/l/yyzll) ($7 on Gumroad). It includes:
+For a structured, always-accessible thought record, check out the [CBT Thought Record Notion Template](https://4043969836017.gumroad.com/l/yyzll) ($1 on Gumroad). It includes:
 - Pre-built 7-column thought record database
 - Cognitive distortions reference table
 - Mood tracker integration
