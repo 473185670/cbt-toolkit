@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <!-- window frame -->
+  <rect width="720" height="420" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+  <!-- title bar -->
+  <rect x="0" y="0" width="720" height="38" rx="10" fill="#21262d"/>
+  <rect x="0" y="28" width="720" height="10" fill="#21262d"/>
+  <circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="19" r="6" fill="#27c93f"/>
+  <text x="360" y="24" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#8b949e" text-anchor="middle">Cognitive Distortion Checker — CBT Toolkit</text>
+
+  <!-- input label -->
+  <text x="30" y="68" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#c9d1d9" font-weight="bold">Your thought:</text>
+  <!-- input box -->
+  <rect x="30" y="76" width="660" height="34" rx="6" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="42" y="98" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#e6edf3">My code review failed. I&#39;m a terrible developer who will never improve.</text>
+
+  <!-- detected distortions header -->
+  <text x="30" y="138" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#c9d1d9" font-weight="bold">Detected cognitive distortions:</text>
+
+  <!-- distortion 1 -->
+  <rect x="30" y="148" width="310" height="30" rx="6" fill="#1f2937" stroke="#f85149" stroke-width="1"/>
+  <text x="44" y="168" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#f85149" font-weight="bold">All-or-nothing thinking</text>
+  <text x="200" y="168" font-family="Segoe UI,Helvetica,Arial" font-size="11" fill="#8b949e">92% match</text>
+
+  <!-- distortion 2 -->
+  <rect x="350" y="148" width="310" height="30" rx="6" fill="#1f2937" stroke="#f85149" stroke-width="1"/>
+  <text x="364" y="168" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#f85149" font-weight="bold">Labeling</text>
+  <text x="440" y="168" font-family="Segoe UI,Helvetica,Arial" font-size="11" fill="#8b949e">88% match</text>
+
+  <!-- distortion 3 -->
+  <rect x="30" y="186" width="310" height="30" rx="6" fill="#1f2937" stroke="#d29922" stroke-width="1"/>
+  <text x="44" y="206" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#d29922" font-weight="bold">Fortune telling</text>
+  <text x="170" y="206" font-family="Segoe UI,Helvetica,Arial" font-size="11" fill="#8b949e">85% match</text>
+
+  <!-- distortion 4 -->
+  <rect x="350" y="186" width="310" height="30" rx="6" fill="#1f2937" stroke="#d29922" stroke-width="1"/>
+  <text x="364" y="206" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#d29922" font-weight="bold">Overgeneralization</text>
+  <text x="500" y="206" font-family="Segoe UI,Helvetica,Arial" font-size="11" fill="#8b949e">80% match</text>
+
+  <!-- reframe header -->
+  <text x="30" y="248" font-family="Segoe UI,Helvetica,Arial" font-size="13" fill="#c9d1d9" font-weight="bold">CBT reframe:</text>
+  <!-- reframe box -->
+  <rect x="30" y="256" width="660" height="68" rx="6" fill="#0d1117" stroke="#27c93f" stroke-width="1.5"/>
+  <text x="42" y="278" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#7ee786">One failed code review means one review had issues — not that I&#39;m</text>
+  <text x="42" y="296" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#7ee786">a &quot;terrible developer.&quot; I can learn from the feedback and improve</text>
+  <text x="42" y="314" font-family="Segoe UI,Helvetica,Arial" font-size="12" fill="#7ee786">specific things in my next PR.</text>
+
+  <!-- footer -->
+  <rect x="0" y="350" width="720" height="70" rx="0" fill="#161b22"/>
+  <text x="30" y="378" font-family="Segoe UI,Helvetica,Arial" font-size="11" fill="#8b949e">Privacy-first: this runs entirely in your browser. No data sent to any server. No signup.</text>
+  <text x="30" y="398" font-family="Segoe UI,Helvetica,Arial" font-size="11" fill="#58a6ff">https://473185670.github.io/cbt-toolkit/seo/cognitive-distortion-checker.html</text>
+</svg>
