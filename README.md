@@ -137,6 +137,22 @@ User input 鈫?keyword-pattern matching 鈫?CBT technique 鈫?reframe/guidance �
 
 ---
 
+## 📝 Articles
+
+I write about CBT techniques for developer-specific pain points on Dev.to:
+
+**CBT × Developer Productivity series:**
+- [5 Cognitive Distortions That Kill Developer Productivity](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-cope-4p8a) — the original (top performer)
+- [5 Cognitive Distortions That Fuel Developer Burnout](https://dev.to/473185670/5-cognitive-distortions-that-fuel-developer-burnout-and-how-to-break-them-1o77)
+- [5 Safety Behaviors That Kill Developer Productivity](https://dev.to/473185670/5-safety-behaviors-that-kill-developer-productivity-and-how-to-break-them-3ina)
+- [5 Cognitive Distortions That Kill Code Review Confidence](https://dev.to/473185670/5-cognitive-distortions-that-kill-code-review-confidence-and-how-to-break-them-4m3o)
+- [5 Core Beliefs That Make You Dread Performance Reviews](https://dev.to/473185670/5-core-beliefs-that-make-you-dread-performance-reviews-and-how-to-rewire-them-43e2)
+
+**Hub article:**
+- [I Built 8 Free Mental Health Tools for Developers](https://dev.to/473185670/i-built-8-free-mental-health-tools-for-developers-here-s-the-complete-collection-4477011)
+
+---
+
 ## Upsell: CBT Thought Record Notion Template
 
 For a structured, always-accessible thought record, check out the [CBT Thought Record Notion Template](https://4043969836017.gumroad.com/l/yyzll) ($7 on Gumroad). It includes:
