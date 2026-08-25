@@ -172,6 +172,7 @@ I write about CBT techniques for developer-specific pain points on Dev.to:
 - [CBT Thought Record vs Journaling: What Actually Reduces Developer Anxiety](https://dev.to/473185670/cbt-thought-record-vs-journaling-what-actually-reduces-developer-anxiety-3e32) - comparison format
 - [I Tracked My Anxious Thoughts for 30 Days as a Developer](https://dev.to/473185670/i-tracked-my-anxious-thoughts-for-30-days-as-a-developer-heres-what-cbt-revealed-gll) - personal narrative
 - [I Predicted the Outcome of 60 Code Reviews — I Was Wrong 52 Times](https://dev.to/473185670/i-predicted-the-outcome-of-60-code-reviews-i-was-wrong-52-times-54nf) - personal narrative, prediction-calibration angle- [How to Do a CBT Thought Record in 90 Seconds](https://dev.to/473185670/how-to-do-a-cbt-thought-record-in-90-seconds-with-a-real-example-2842) — tutorial format, 5-step compressed thought record with worked example
+- [How to Do a 5-4-3-2-1 Grounding Exercise in 60 Seconds](https://dev.to/473185670/how-to-do-a-5-4-3-2-1-grounding-exercise-in-60-seconds-when-your-mind-wont-stop-5chk) — anxiety grounding tutorial (s270)
 
 
 **Hub article:**
