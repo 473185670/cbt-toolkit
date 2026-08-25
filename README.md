@@ -25,6 +25,22 @@ A collection of 23 free interactive CBT (Cognitive Behavioral Therapy) tools and
 **Toolkit hub**: [https://473185670.github.io/cbt-toolkit/seo/cbt-toolkit-hub.html](https://473185670.github.io/cbt-toolkit/seo/cbt-toolkit-hub.html)
 
 
+## 🎯 When to Use This Toolkit
+
+Real developer moments where CBT tools help:
+
+| Situation | Tool | What It Does |
+|-----------|------|-------------|
+| **Before a stressful deploy** | Thought Record | Catch "this will break production" catastrophizing → reframe with evidence |
+| **After a critical bug report** | Distortion Detector | Identify "I'm a fraud" as labeling → reframe as "I made one mistake" |
+| **During on-call at 3 AM** | Catastrophe Reframer | "The server is down → we're losing customers → I'll be fired" → balanced thought |
+| **Before a performance review** | Core Belief Detector | Drill down "I'm not good enough" → surface belief → challenge it |
+| **Dreading a standup** | Safety Behavior Detector | Identify avoidance/overprepare behaviors → response prevention plan |
+| **Catastrophizing about a deadline** | Prediction Calibration | Track how often predicted disasters actually happen → build trust in outcomes |
+| **Anxiety spiking during code review** | Thought Record → Mood Tracker | Record thought → track mood trend over days → see pattern |
+
+> These are the same cognitive patterns that kill developer productivity. CBT gives you a structured, evidence-based way to work through them in 5 minutes — no therapy appointment needed.
+
 ## 💬 Telegram Bot — Interactive CBT Thought Records
 
 **[@trevor_pl_bot](https://t.me/trevor_pl_bot)** on Telegram walks you through a 7-step CBT thought record in chat — no app, no signup, no data stored on any server.
