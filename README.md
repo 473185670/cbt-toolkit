@@ -168,6 +168,9 @@ I write about CBT techniques for developer-specific pain points on Dev.to:
 - [5 Safety Behaviors That Kill Developer Productivity](https://dev.to/473185670/5-safety-behaviors-that-kill-developer-productivity-and-how-to-break-them-3ina)
 - [5 Cognitive Distortions That Kill Code Review Confidence](https://dev.to/473185670/5-cognitive-distortions-that-kill-code-review-confidence-and-how-to-break-them-4m3o)
 - [5 Core Beliefs That Make You Dread Performance Reviews](https://dev.to/473185670/5-core-beliefs-that-make-you-dread-performance-reviews-and-how-to-rewire-them-43e2)
+- [How I Built a Behavioral Activation Tracker in 80 Lines of Vanilla JS](https://dev.to/473185670/how-i-built-a-behavioral-activation-tracker-in-80-lines-of-vanilla-javascript-no-framework-no-4865) - prediction-error correction for depression
+- [CBT Thought Record vs Journaling: What Actually Reduces Developer Anxiety](https://dev.to/473185670/cbt-thought-record-vs-journaling-what-actually-reduces-developer-anxiety-3e32) - comparison format
+- [I Tracked My Anxious Thoughts for 30 Days as a Developer](https://dev.to/473185670/i-tracked-my-anxious-thoughts-for-30-days-as-a-developer-heres-what-cbt-revealed-gll) - personal narrative
 
 **Hub article:**
 - [I Built 8 Free Mental Health Tools for Developers](https://dev.to/473185670/i-built-8-free-mental-health-tools-for-developers-here-s-the-complete-collection-4477011)
