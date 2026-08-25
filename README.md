@@ -156,6 +156,19 @@ I write about CBT techniques for developer-specific pain points on Dev.to:
 
 ---
 
+## 💬 Discussions
+
+Have a question about using these tools? Want to share what worked for you? [Start or join a discussion](https://github.com/473185670/cbt-toolkit/discussions) — no GitHub account friction, just ask.
+
+**Active conversations:**
+- [#5 Best tool in the toolkit for panic attacks?](https://github.com/473185670/cbt-toolkit/discussions/5)
+- [#3 How do I use the thought record for imposter syndrome?](https://github.com/473185670/cbt-toolkit/discussions/3)
+- [#1 What cognitive distortions show up most often in your work?](https://github.com/473185670/cbt-toolkit/discussions/1)
+- [#2 How do you stay consistent with daily thought records?](https://github.com/473185670/cbt-toolkit/discussions/2)
+- [#4 Difference between the distortion checker and the full thought record?](https://github.com/473185670/cbt-toolkit/discussions/4)
+
+---
+
 ## Upsell: CBT Thought Record Notion Template
 
 For a structured, always-accessible thought record, check out the [CBT Thought Record Notion Template](https://4043969836017.gumroad.com/l/yyzll) ($1 on Gumroad). It includes:
